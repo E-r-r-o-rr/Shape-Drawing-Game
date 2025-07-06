@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\deyaa\\Downloads\\Bachelor of engineering\\2023\\Semester 2\\Object Oriented Programming\\Task 2.3 ShapeMain\\ShapeDrawer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C2DDB34A-0FC9-4E98-A15B-3FAC1A40AEA9}|ShapeDrawer.csproj|c:\\users\\deyaa\\downloads\\bachelor of engineering\\2023\\semester 2\\object oriented programming\\task 2.3 shapemain\\shapedrawer\\drawing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2DDB34A-0FC9-4E98-A15B-3FAC1A40AEA9}|ShapeDrawer.csproj|solutionrelative:drawing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2DDB34A-0FC9-4E98-A15B-3FAC1A40AEA9}|ShapeDrawer.csproj|c:\\users\\deyaa\\downloads\\bachelor of engineering\\2023\\semester 2\\object oriented programming\\task 2.3 shapemain\\shapedrawer\\mygame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2DDB34A-0FC9-4E98-A15B-3FAC1A40AEA9}|ShapeDrawer.csproj|solutionrelative:mygame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2DDB34A-0FC9-4E98-A15B-3FAC1A40AEA9}|ShapeDrawer.csproj|c:\\users\\deyaa\\downloads\\bachelor of engineering\\2023\\semester 2\\object oriented programming\\task 2.3 shapemain\\shapedrawer\\mycircle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2DDB34A-0FC9-4E98-A15B-3FAC1A40AEA9}|ShapeDrawer.csproj|solutionrelative:mycircle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2DDB34A-0FC9-4E98-A15B-3FAC1A40AEA9}|ShapeDrawer.csproj|c:\\users\\deyaa\\downloads\\bachelor of engineering\\2023\\semester 2\\object oriented programming\\task 2.3 shapemain\\shapedrawer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2DDB34A-0FC9-4E98-A15B-3FAC1A40AEA9}|ShapeDrawer.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2DDB34A-0FC9-4E98-A15B-3FAC1A40AEA9}|ShapeDrawer.csproj|c:\\users\\deyaa\\downloads\\bachelor of engineering\\2023\\semester 2\\object oriented programming\\task 2.3 shapemain\\shapedrawer\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2DDB34A-0FC9-4E98-A15B-3FAC1A40AEA9}|ShapeDrawer.csproj|solutionrelative:shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2DDB34A-0FC9-4E98-A15B-3FAC1A40AEA9}|ShapeDrawer.csproj|c:\\users\\deyaa\\downloads\\bachelor of engineering\\2023\\semester 2\\object oriented programming\\task 2.3 shapemain\\shapedrawer\\myline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2DDB34A-0FC9-4E98-A15B-3FAC1A40AEA9}|ShapeDrawer.csproj|solutionrelative:myline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2DDB34A-0FC9-4E98-A15B-3FAC1A40AEA9}|ShapeDrawer.csproj|c:\\users\\deyaa\\downloads\\bachelor of engineering\\2023\\semester 2\\object oriented programming\\task 2.3 shapemain\\shapedrawer\\myrectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2DDB34A-0FC9-4E98-A15B-3FAC1A40AEA9}|ShapeDrawer.csproj|solutionrelative:myrectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyGame.cs",
+              "DocumentMoniker": "C:\\Users\\deyaa\\Downloads\\Bachelor of engineering\\2023\\Semester 2\\Object Oriented Programming\\Task 2.3 ShapeMain\\ShapeDrawer\\MyGame.cs",
+              "RelativeDocumentMoniker": "MyGame.cs",
+              "ToolTip": "C:\\Users\\deyaa\\Downloads\\Bachelor of engineering\\2023\\Semester 2\\Object Oriented Programming\\Task 2.3 ShapeMain\\ShapeDrawer\\MyGame.cs",
+              "RelativeToolTip": "MyGame.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-19T03:23:22.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyCircle.cs",
+              "DocumentMoniker": "C:\\Users\\deyaa\\Downloads\\Bachelor of engineering\\2023\\Semester 2\\Object Oriented Programming\\Task 2.3 ShapeMain\\ShapeDrawer\\MyCircle.cs",
+              "RelativeDocumentMoniker": "MyCircle.cs",
+              "ToolTip": "C:\\Users\\deyaa\\Downloads\\Bachelor of engineering\\2023\\Semester 2\\Object Oriented Programming\\Task 2.3 ShapeMain\\ShapeDrawer\\MyCircle.cs",
+              "RelativeToolTip": "MyCircle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-09-22T00:49:36.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MyLine.cs",
+              "DocumentMoniker": "C:\\Users\\deyaa\\Downloads\\Bachelor of engineering\\2023\\Semester 2\\Object Oriented Programming\\Task 2.3 ShapeMain\\ShapeDrawer\\MyLine.cs",
+              "RelativeDocumentMoniker": "MyLine.cs",
+              "ToolTip": "C:\\Users\\deyaa\\Downloads\\Bachelor of engineering\\2023\\Semester 2\\Object Oriented Programming\\Task 2.3 ShapeMain\\ShapeDrawer\\MyLine.cs",
+              "RelativeToolTip": "MyLine.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-09-22T00:49:36.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Drawing.cs",
+              "DocumentMoniker": "C:\\Users\\deyaa\\Downloads\\Bachelor of engineering\\2023\\Semester 2\\Object Oriented Programming\\Task 2.3 ShapeMain\\ShapeDrawer\\Drawing.cs",
+              "RelativeDocumentMoniker": "Drawing.cs",
+              "ToolTip": "C:\\Users\\deyaa\\Downloads\\Bachelor of engineering\\2023\\Semester 2\\Object Oriented Programming\\Task 2.3 ShapeMain\\ShapeDrawer\\Drawing.cs",
+              "RelativeToolTip": "Drawing.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEkAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-02T20:52:59.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MyRectangle.cs",
+              "DocumentMoniker": "C:\\Users\\deyaa\\Downloads\\Bachelor of engineering\\2023\\Semester 2\\Object Oriented Programming\\Task 2.3 ShapeMain\\ShapeDrawer\\MyRectangle.cs",
+              "RelativeDocumentMoniker": "MyRectangle.cs",
+              "ToolTip": "C:\\Users\\deyaa\\Downloads\\Bachelor of engineering\\2023\\Semester 2\\Object Oriented Programming\\Task 2.3 ShapeMain\\ShapeDrawer\\MyRectangle.cs",
+              "RelativeToolTip": "MyRectangle.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwD0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-02T20:59:07.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "C:\\Users\\deyaa\\Downloads\\Bachelor of engineering\\2023\\Semester 2\\Object Oriented Programming\\Task 2.3 ShapeMain\\ShapeDrawer\\Shape.cs",
+              "RelativeDocumentMoniker": "Shape.cs",
+              "ToolTip": "C:\\Users\\deyaa\\Downloads\\Bachelor of engineering\\2023\\Semester 2\\Object Oriented Programming\\Task 2.3 ShapeMain\\ShapeDrawer\\Shape.cs",
+              "RelativeToolTip": "Shape.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAA3wDQAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-02T20:53:13.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\deyaa\\Downloads\\Bachelor of engineering\\2023\\Semester 2\\Object Oriented Programming\\Task 2.3 ShapeMain\\ShapeDrawer\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\deyaa\\Downloads\\Bachelor of engineering\\2023\\Semester 2\\Object Oriented Programming\\Task 2.3 ShapeMain\\ShapeDrawer\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-02T20:42:35.153Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
